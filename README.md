@@ -1,6 +1,6 @@
 # Android Peer Lab Moscow
 
-## Следующая всртеча: 16 08 2017
+## Следующая встреча: 16 08 2017
 
 Ссылка на регистрацию: https://peer-lab.timepad.ru/event/550031/
 
