@@ -1,8 +1,16 @@
 # Android Peer Lab Moscow
 
-## Следующая встреча: 16 08 2017
+Канал в tg: https://t.me/androidpeerlabmoscow
+
+## Следующая встреча: 30 08 2017
 
 Ссылка на регистрацию: https://peer-lab.timepad.ru/event/550031/
+
+## 16 08 2017
+
+### Материалы
+
+[Похмелье от RxJava.](/rxjava_16_08.md)
 
 ## 02 08 2017
 
